@@ -55,7 +55,7 @@ const InputForm = () => {
             className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
             id="user_email"
             type="email"
-            placeholder="daisy@site.com"
+            placeholder="Enter your email"
             name="user_email"
           />
         </div>
